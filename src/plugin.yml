@@ -1,0 +1,5 @@
+main: fr.IronEagle.aaa.Main
+name: PlugNpc
+version: [ '0.1','0.2' ]
+description: PLugin Test
+author: IronEagle
